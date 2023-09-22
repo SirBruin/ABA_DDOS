@@ -15,5 +15,5 @@ open cmd or terminal and
 
 3 pip install -r requirements.txt
 
-4 python ArverDDos.py
+4 python conf.py <ip> <port>
 </code>
