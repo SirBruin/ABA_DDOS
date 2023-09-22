@@ -14,5 +14,6 @@ open cmd or terminal and write
 1 git clone https://github.com/ArverRubika/ArverDDOS.git
 
 2 cd ArverDDos
-3 python conf.py <ip> <port>
+
+3 python conf.py <p><ip> <port></P>
 </i>
