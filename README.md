@@ -7,9 +7,9 @@ powered by <b>hammer</b>
 <br><br>
 
 how to install :
-<hr><br>
+<hr><br><br>
 open cmd or terminal and 
-<br>
+<br><br>
 <i>
 1 git clone https://github.com/ArverRubika/ArverDDOS.git
 
