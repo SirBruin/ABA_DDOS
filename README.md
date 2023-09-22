@@ -4,8 +4,10 @@ this sample layer 4 ddoser powered by hammer
 
 <h1>a opensource script for ddos atack</h1>
 powered by <b>hammer</b>
+<br><br>
 
-how to install : <br>
+how to install :
+<hr><br>
 open cmd or terminal and 
 <br>
 <i>
