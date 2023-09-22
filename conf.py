@@ -512,3 +512,5 @@ def main() :
 			w.put(item)
 		query.join()
 		w.join()
+
+main()
