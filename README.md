@@ -12,7 +12,10 @@ open cmd or terminal and
 <br><br>
 <i>
 1 git clone https://github.com/ArverRubika/ArverDDOS.git
+<br>
 2 cd ArverDDos
+<br>
 3 pip install -r requirements.txt
+<br>
 4 python conf.py <ip> <port>
 </i>
