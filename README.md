@@ -15,5 +15,5 @@ open cmd or terminal and write
 
 2 cd ArverDDos
 
-3 python conf.py <p>(ip) (port)</P>
+3 python conf.py (ip) (port)
 </i>
